@@ -3,6 +3,7 @@ import './App.css';
 import Form from './components/Form'
 import TodoList from './components/TodoList';
 
+//This is a function
 function App() {
   const [inputText, setInputText] = useState("");
   const [todos, setTodos] = useState([]);
