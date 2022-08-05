@@ -11,5 +11,5 @@ This is just a simple project to familiarize myself with React and get the hang 
 <br>
 <br>
 <p align="center">
-  <img src="React-Todo.gif">
+  <img src="todo.gif">
 </p>
