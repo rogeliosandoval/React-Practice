@@ -7,7 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px;"/>
 </p>
-This is just a simple project to familiarize myself with React and get the hang of how it works. A todo list application is as simple as letting a user enter in ideas that they can then check off as they complete them. This application has a filter as well.
+This is just a simple project to familiarize myself with React and get the hang of how it works. Let's be honest we all know what a todo app is but it's what every developer has to create at least once right? Thanks for viewing!
 <br>
 <br>
 <p align="center">
