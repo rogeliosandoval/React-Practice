@@ -1,7 +1,7 @@
 <h1>React Todo List Application</h1>
-<h3>Framework Used:</h3>
+<h3>Library Used:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px;"/>
-<h3>Languages Used:</h3>
+<h3>Technologies Used:</h3>
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px;"/>
